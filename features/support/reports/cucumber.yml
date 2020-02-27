@@ -1,1 +1,0 @@
-default: --format json -o reports/json/cucumber.json LOCAL=true
